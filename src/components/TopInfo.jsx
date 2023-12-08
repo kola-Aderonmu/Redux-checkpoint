@@ -25,7 +25,7 @@ const Greeting = () => {
         <div>
           <button
             onClick={openModal}
-            className="hover:bg-slate-100 text-red-300 text:hover"
+            className="hover:bg-slate-300 text-red-300 text:hover rounded-xl border-black"
           >
             Click Me:
           </button>
